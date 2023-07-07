@@ -1,0 +1,80 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51982054919@s.whatsapp.net',
+    fromMe: false,
+    id: '76A47300BF6816E86F9513561764B3B8',
+    participant: undefined
+  },
+  messageTimestamp: 1688732556,
+  pushName: 'Gonzalo Rivera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51982054919'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51982054919@s.whatsapp.net',
+    fromMe: false,
+    id: '94581652C0E28F56051A340F29609D57',
+    participant: undefined
+  },
+  messageTimestamp: 1688732567,
+  pushName: 'Gonzalo Rivera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Servicios',
+  from: '51982054919'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51982054919@s.whatsapp.net',
+    fromMe: false,
+    id: '41699A6749C8834BD16C41B8A470A71F',
+    participant: undefined
+  },
+  messageTimestamp: 1688732611,
+  pushName: 'Gonzalo Rivera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Web',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Web',
+  from: '51982054919'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51982054919@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABA6CA94A04A0C8B949C2D76C71E0B9',
+    participant: undefined
+  },
+  messageTimestamp: 1688732616,
+  pushName: 'Gonzalo Rivera',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '51982054919'
+}
